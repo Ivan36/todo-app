@@ -32,7 +32,7 @@ A modern, responsive todo application built with Laravel 10, featuring user auth
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Ivan36/todo-app.git
    cd todo-app
    ```
 
@@ -233,7 +233,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or support, please contact [Your Name] at [your-email@example.com].
+For questions or support, please contact Ivan at amanyaivan36@gmail.com.
 
 ---
 
